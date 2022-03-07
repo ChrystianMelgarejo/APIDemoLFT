@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+    @*moved from bottom of page*@
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    <link rel="stylesheet" href="~/Content/themes/base/jquery-ui.css" />
+    <script src="~/Scripts/jquery-ui-1.13.1.js"></script>
+
+    @*style for vertical tabs*@
+    <style>
+        .ui-tabs-vertical .ui-tabs-nav {
+            padding: .2em .1em .2em .2em;
+            float: left;
+            width: 12em;
+        }
+
+            .ui-tabs-vertical .ui-tabs-nav li {
+                clear: left;
+                width: 100%;
+                border-bottom-width: 1px !important;
+                border-right-width: 0 !important;
+                margin: 0 -1px .2em 0;
+            }
+
+                .ui-tabs-vertical .ui-tabs-nav li a {
+                    display: block;
+                }
+
+                .ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active {
+                    padding-bottom: 0;
+                    padding-right: .1em;
+                    border-right-width: 1px;
+                    border-right-width: 1px;
+                }
+
+        .ui-tabs-vertical .ui-tabs-panel {
+            padding: 1em;
+            float: right;
+            width: 40em;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <img src="~/Content/Images/LinearFT.png" />
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Application")</li>
+                    <li>@Html.ActionLink("Advance Search", "Search", "Application")</li>                    
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+    </div>
+    
+    @RenderSection("scripts", required: false)
+</body>
+</html>

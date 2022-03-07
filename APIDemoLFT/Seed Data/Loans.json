@@ -1,0 +1,8002 @@
+﻿[
+  {
+    "LoanAmount": 15800,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 615000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 97600,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 570000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72200,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 710,
+    "OutstandingDebt": 906000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 57600,
+    "MonthsToPayBack": 12,
+    "APRRate": 4,
+    "CreditScore": 710,
+    "OutstandingDebt": 577000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83300,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 472000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23300,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 610,
+    "OutstandingDebt": 121000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 38100,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 720,
+    "OutstandingDebt": 968000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 46600,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 720,
+    "OutstandingDebt": 137000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 18800,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 137000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 46200,
+    "MonthsToPayBack": 12,
+    "APRRate": 4,
+    "CreditScore": 640,
+    "OutstandingDebt": 306000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80900,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 730,
+    "OutstandingDebt": 693000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40100,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 720,
+    "OutstandingDebt": 886000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53900,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 730,
+    "OutstandingDebt": 726000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37600,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 318000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 98000,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 740,
+    "OutstandingDebt": 138000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91700,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 670,
+    "OutstandingDebt": 697000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 799000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15200,
+    "MonthsToPayBack": 48,
+    "APRRate": 4,
+    "CreditScore": 640,
+    "OutstandingDebt": 817000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39100,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 787000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 6000,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 938000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42800,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 640,
+    "OutstandingDebt": 863000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8900,
+    "MonthsToPayBack": 12,
+    "APRRate": 4,
+    "CreditScore": 710,
+    "OutstandingDebt": 307000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32700,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 600,
+    "OutstandingDebt": 931000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64100,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 841000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 750,
+    "OutstandingDebt": 720000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 674000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26200,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 640,
+    "OutstandingDebt": 835000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77500,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 710,
+    "OutstandingDebt": 887000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3800,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 640,
+    "OutstandingDebt": 478000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15000,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 155000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 400,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 390000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88800,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 923000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81600,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 730,
+    "OutstandingDebt": 321000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77700,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 660,
+    "OutstandingDebt": 219000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 95000,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 988000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 49400,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 562000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88900,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 182000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19900,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 640,
+    "OutstandingDebt": 406000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80200,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 600,
+    "OutstandingDebt": 784000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 78600,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 401000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16200,
+    "MonthsToPayBack": 48,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 315000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 541000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21900,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 660,
+    "OutstandingDebt": 384000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59600,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 143000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28800,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 740,
+    "OutstandingDebt": 756000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 98500,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 677000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85900,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 547000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 82400,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 71000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 937000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21300,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 670,
+    "OutstandingDebt": 103000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3100,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 600,
+    "OutstandingDebt": 186000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25100,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 660,
+    "OutstandingDebt": 605000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55600,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 706000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44000,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 690,
+    "OutstandingDebt": 594000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 36400,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 690,
+    "OutstandingDebt": 197000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 906000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 398000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39500,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 600,
+    "OutstandingDebt": 623000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28600,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 379000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 14900,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 727000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72100,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 253000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40100,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 279000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28500,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 600,
+    "OutstandingDebt": 347000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70100,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 620,
+    "OutstandingDebt": 289000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30200,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 700000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86500,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 575000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89100,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 314000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89800,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 833000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 12100,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 578000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39200,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 264000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1000,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 96000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 62000,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 720,
+    "OutstandingDebt": 32000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 620,
+    "OutstandingDebt": 127000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63200,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 610,
+    "OutstandingDebt": 160000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27500,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 640,
+    "OutstandingDebt": 76000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70100,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 242000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 36400,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 700,
+    "OutstandingDebt": 215000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86200,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 740,
+    "OutstandingDebt": 317000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 41800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 74000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30700,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 780000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80900,
+    "MonthsToPayBack": 48,
+    "APRRate": 12,
+    "CreditScore": 610,
+    "OutstandingDebt": 982000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84500,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 956000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84800,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 600,
+    "OutstandingDebt": 882000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 6800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 859000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 57200,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 677000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44400,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 478000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71900,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 670,
+    "OutstandingDebt": 46000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77500,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 895000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27100,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 710,
+    "OutstandingDebt": 485000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96200,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 58000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91000,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 458000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 14100,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 740,
+    "OutstandingDebt": 497000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 46800,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 161000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 67700,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 741000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90000,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 710,
+    "OutstandingDebt": 935000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4600,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 710,
+    "OutstandingDebt": 262000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39500,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 373000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51900,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 670,
+    "OutstandingDebt": 447000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34800,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 135000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8000,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 822000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61000,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 64000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75800,
+    "MonthsToPayBack": 48,
+    "APRRate": 12,
+    "CreditScore": 690,
+    "OutstandingDebt": 582000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 20500,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 660,
+    "OutstandingDebt": 762000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77100,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 700,
+    "OutstandingDebt": 904000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51400,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 195000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7500,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 825000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44100,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 690,
+    "OutstandingDebt": 635000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69800,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 104000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 24100,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 985000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11800,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 640,
+    "OutstandingDebt": 302000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71900,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 740,
+    "OutstandingDebt": 646000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48300,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 783000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45100,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 417000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34700,
+    "MonthsToPayBack": 12,
+    "APRRate": 7,
+    "CreditScore": 720,
+    "OutstandingDebt": 738000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 12200,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 436000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 41900,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 610,
+    "OutstandingDebt": 29000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 67500,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 791000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19100,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 700,
+    "OutstandingDebt": 721000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51500,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 634000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 73900,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 122000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65700,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 405000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43600,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 155000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72100,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 96000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7400,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 670,
+    "OutstandingDebt": 674000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56400,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 368000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63600,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 828000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2700,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 744000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21000,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 929000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65800,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 700,
+    "OutstandingDebt": 252000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1000,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 680,
+    "OutstandingDebt": 660000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86100,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 710,
+    "OutstandingDebt": 428000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94700,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 730,
+    "OutstandingDebt": 836000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88800,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 255000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43000,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 443000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 20100,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 263000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19400,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 758000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81500,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 109000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19500,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 966000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 68100,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 630,
+    "OutstandingDebt": 163000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13300,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 700,
+    "OutstandingDebt": 866000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60500,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 700,
+    "OutstandingDebt": 642000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 29800,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 66000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 404000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 38900,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 730,
+    "OutstandingDebt": 847000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7500,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 750,
+    "OutstandingDebt": 272000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4000,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 224000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61500,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 860000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60100,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 773000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3700,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 680,
+    "OutstandingDebt": 422000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 68500,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 740,
+    "OutstandingDebt": 177000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16000,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 670,
+    "OutstandingDebt": 714000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2600,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 810000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28500,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 894000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51300,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 223000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 93400,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 274000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55400,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 123000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43100,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 720,
+    "OutstandingDebt": 207000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28100,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 610,
+    "OutstandingDebt": 228000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 99600,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 421000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13700,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 750,
+    "OutstandingDebt": 212000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64100,
+    "MonthsToPayBack": 12,
+    "APRRate": 5,
+    "CreditScore": 680,
+    "OutstandingDebt": 983000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58400,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 680,
+    "OutstandingDebt": 922000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90900,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 713000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 9900,
+    "MonthsToPayBack": 48,
+    "APRRate": 12,
+    "CreditScore": 650,
+    "OutstandingDebt": 963000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26200,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 630,
+    "OutstandingDebt": 497000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11300,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 630,
+    "OutstandingDebt": 150000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23900,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 317000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 29100,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 630,
+    "OutstandingDebt": 973000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94600,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 591000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91700,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 680,
+    "OutstandingDebt": 413000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75700,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 750,
+    "OutstandingDebt": 26000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42800,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 740,
+    "OutstandingDebt": 931000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63700,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 500000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42600,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 817000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92600,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 512000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25700,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 446000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65300,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 863000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15100,
+    "MonthsToPayBack": 12,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 26000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 17900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 811000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52100,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 620,
+    "OutstandingDebt": 740000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23800,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 376000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85200,
+    "MonthsToPayBack": 48,
+    "APRRate": 12,
+    "CreditScore": 620,
+    "OutstandingDebt": 393000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86000,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 680,
+    "OutstandingDebt": 69000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60100,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 700,
+    "OutstandingDebt": 551000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63100,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 645000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21600,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 190000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89200,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 730,
+    "OutstandingDebt": 130000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39900,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 470000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53600,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 620,
+    "OutstandingDebt": 522000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51900,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 680,
+    "OutstandingDebt": 516000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63200,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 680,
+    "OutstandingDebt": 924000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84200,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 720,
+    "OutstandingDebt": 779000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59000,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 730000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 31500,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 740,
+    "OutstandingDebt": 290000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56700,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 620,
+    "OutstandingDebt": 128000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42500,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 628000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56300,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 410000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58300,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 600,
+    "OutstandingDebt": 987000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45800,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 828000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 47600,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 610,
+    "OutstandingDebt": 841000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8500,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 700,
+    "OutstandingDebt": 866000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45800,
+    "MonthsToPayBack": 48,
+    "APRRate": 4,
+    "CreditScore": 710,
+    "OutstandingDebt": 866000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72600,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 898000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28800,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 582000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35400,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 615000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 9900,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 324000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91300,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 630,
+    "OutstandingDebt": 585000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11000,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 159000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37700,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 257000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 460000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15800,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 680,
+    "OutstandingDebt": 654000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75300,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 815000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4500,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 630,
+    "OutstandingDebt": 64000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25000,
+    "MonthsToPayBack": 36,
+    "APRRate": 12,
+    "CreditScore": 640,
+    "OutstandingDebt": 531000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34700,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 730,
+    "OutstandingDebt": 484000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52200,
+    "MonthsToPayBack": 12,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 83000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76000,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 700,
+    "OutstandingDebt": 561000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80500,
+    "MonthsToPayBack": 12,
+    "APRRate": 4,
+    "CreditScore": 610,
+    "OutstandingDebt": 482000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27500,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 355000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96800,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 620,
+    "OutstandingDebt": 498000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77500,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 620,
+    "OutstandingDebt": 415000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81500,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 449000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40000,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 720,
+    "OutstandingDebt": 50000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61100,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 334000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2900,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 750,
+    "OutstandingDebt": 270000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 46000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 46300,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 30000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35100,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 680,
+    "OutstandingDebt": 489000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10500,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 42000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75500,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 519000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 20600,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 710,
+    "OutstandingDebt": 930000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8300,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 160000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 29600,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 750,
+    "OutstandingDebt": 989000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75100,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 43000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74800,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 864000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43300,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 319000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33900,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 640,
+    "OutstandingDebt": 701000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65600,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 277000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42700,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 741000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23600,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 670,
+    "OutstandingDebt": 70000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80600,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 730,
+    "OutstandingDebt": 98000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4700,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 718000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90800,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 485000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59100,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 756000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92000,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 383000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 6500,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 620,
+    "OutstandingDebt": 304000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35400,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 794000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85200,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 650,
+    "OutstandingDebt": 929000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51700,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 600,
+    "OutstandingDebt": 839000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90300,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 630,
+    "OutstandingDebt": 382000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 720,
+    "OutstandingDebt": 922000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81700,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 330000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64500,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 587000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1400,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 155000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56000,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 693000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77700,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 690,
+    "OutstandingDebt": 589000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23500,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 851000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85100,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 740,
+    "OutstandingDebt": 258000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79600,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 91000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 9300,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 612000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70300,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 205000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8600,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 730,
+    "OutstandingDebt": 63000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 36600,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 817000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26900,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 610,
+    "OutstandingDebt": 34000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90600,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 620,
+    "OutstandingDebt": 935000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80300,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 630,
+    "OutstandingDebt": 895000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 740,
+    "OutstandingDebt": 793000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16800,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 620,
+    "OutstandingDebt": 274000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 5300,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 245000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44400,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 600,
+    "OutstandingDebt": 863000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54200,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 823000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 62700,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 907000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64100,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 660,
+    "OutstandingDebt": 420000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25900,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 293000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 73500,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 620,
+    "OutstandingDebt": 287000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3200,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 640,
+    "OutstandingDebt": 897000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81900,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 660,
+    "OutstandingDebt": 860000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8600,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 690,
+    "OutstandingDebt": 715000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34300,
+    "MonthsToPayBack": 48,
+    "APRRate": 4,
+    "CreditScore": 740,
+    "OutstandingDebt": 195000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52600,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 720,
+    "OutstandingDebt": 293000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88700,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 620,
+    "OutstandingDebt": 167000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 49000,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 779000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28800,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 730,
+    "OutstandingDebt": 953000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86700,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 730,
+    "OutstandingDebt": 730000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13800,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 670,
+    "OutstandingDebt": 897000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19200,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 123000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59300,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 898000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10100,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 466000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45100,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 680,
+    "OutstandingDebt": 143000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 29200,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 750,
+    "OutstandingDebt": 107000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45100,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 710,
+    "OutstandingDebt": 572000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35100,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 670,
+    "OutstandingDebt": 764000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60800,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 650,
+    "OutstandingDebt": 149000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2300,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 982000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23200,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 303000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90900,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 309000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4000,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 670,
+    "OutstandingDebt": 800000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79700,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 267000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71000,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 928000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 91000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10100,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 224000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60100,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 600,
+    "OutstandingDebt": 270000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86000,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 294000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69400,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 730,
+    "OutstandingDebt": 649000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85300,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 204000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65100,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 550000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88300,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 610,
+    "OutstandingDebt": 739000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35400,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 620,
+    "OutstandingDebt": 424000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85800,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 620,
+    "OutstandingDebt": 108000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63600,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 78000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89300,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 690,
+    "OutstandingDebt": 113000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89800,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 600,
+    "OutstandingDebt": 574000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37400,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 710,
+    "OutstandingDebt": 544000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52400,
+    "MonthsToPayBack": 48,
+    "APRRate": 5,
+    "CreditScore": 610,
+    "OutstandingDebt": 387000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83700,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 945000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72500,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 700,
+    "OutstandingDebt": 68000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55100,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 620,
+    "OutstandingDebt": 651000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16500,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 425000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35900,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 670,
+    "OutstandingDebt": 828000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30000,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 750,
+    "OutstandingDebt": 179000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 620,
+    "OutstandingDebt": 589000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 47600,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 448000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34200,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 740,
+    "OutstandingDebt": 577000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88200,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 690,
+    "OutstandingDebt": 544000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 66300,
+    "MonthsToPayBack": 48,
+    "APRRate": 5,
+    "CreditScore": 700,
+    "OutstandingDebt": 85000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79200,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 630,
+    "OutstandingDebt": 754000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 17500,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 461000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91700,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 740,
+    "OutstandingDebt": 620000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 660,
+    "OutstandingDebt": 395000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 691000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54100,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 740,
+    "OutstandingDebt": 286000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33100,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 620,
+    "OutstandingDebt": 848000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77500,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 620,
+    "OutstandingDebt": 196000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27000,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 600,
+    "OutstandingDebt": 599000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65300,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 906000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26000,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 710,
+    "OutstandingDebt": 75000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63100,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 194000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 18300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 680,
+    "OutstandingDebt": 56000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 22300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 892000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15100,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 740,
+    "OutstandingDebt": 94000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 20300,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 100000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10800,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 720,
+    "OutstandingDebt": 182000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 6000,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 896000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 38100,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 700,
+    "OutstandingDebt": 266000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 87500,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 620,
+    "OutstandingDebt": 399000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 67500,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 660,
+    "OutstandingDebt": 651000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7200,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 68000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86800,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 630,
+    "OutstandingDebt": 769000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79300,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 590000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 73700,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 620,
+    "OutstandingDebt": 223000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 57200,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 302000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90100,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 410000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86200,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 690,
+    "OutstandingDebt": 861000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52700,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 730,
+    "OutstandingDebt": 205000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96100,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 730,
+    "OutstandingDebt": 232000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72900,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 250000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69800,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 740,
+    "OutstandingDebt": 710000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52300,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 137000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16600,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 287000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4200,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 740,
+    "OutstandingDebt": 393000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 41300,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 690,
+    "OutstandingDebt": 173000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65700,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 816000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89900,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 184000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64200,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 740,
+    "OutstandingDebt": 983000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35500,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 871000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 9400,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 600,
+    "OutstandingDebt": 456000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71200,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 284000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83200,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 750,
+    "OutstandingDebt": 178000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45100,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 482000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64000,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 700,
+    "OutstandingDebt": 361000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92200,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 570000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88000,
+    "MonthsToPayBack": 12,
+    "APRRate": 5,
+    "CreditScore": 740,
+    "OutstandingDebt": 136000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11000,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 872000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 730,
+    "OutstandingDebt": 478000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58400,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 440000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94500,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 690,
+    "OutstandingDebt": 31000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 95900,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 578000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13500,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 980000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43000,
+    "MonthsToPayBack": 48,
+    "APRRate": 12,
+    "CreditScore": 600,
+    "OutstandingDebt": 961000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89000,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 710,
+    "OutstandingDebt": 696000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28500,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 537000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74800,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 295000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43200,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 454000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2000,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 34000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72800,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 610,
+    "OutstandingDebt": 154000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 62200,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 807000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16500,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 750,
+    "OutstandingDebt": 831000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77200,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 660,
+    "OutstandingDebt": 349000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81800,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 670,
+    "OutstandingDebt": 488000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86400,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 230000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 82400,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 385000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 20700,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 740,
+    "OutstandingDebt": 731000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44100,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 595000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94800,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 707000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 368000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77900,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 640,
+    "OutstandingDebt": 947000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3800,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 350000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 46700,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 730,
+    "OutstandingDebt": 830000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21700,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 364000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77000,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 153000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88300,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 640,
+    "OutstandingDebt": 135000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4100,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 660,
+    "OutstandingDebt": 132000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54400,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 249000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 29800,
+    "MonthsToPayBack": 12,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 499000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 6400,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 634000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 46000,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 385000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72400,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 489000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16100,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 67000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27800,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 630,
+    "OutstandingDebt": 985000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30400,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 750,
+    "OutstandingDebt": 386000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 12600,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 40000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39800,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 640,
+    "OutstandingDebt": 162000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37700,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 620,
+    "OutstandingDebt": 384000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 24700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 143000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61200,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 680,
+    "OutstandingDebt": 795000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 24000,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 690,
+    "OutstandingDebt": 593000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64600,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 33000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 66300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 346000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81900,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 97000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 14200,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 700,
+    "OutstandingDebt": 549000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 620,
+    "OutstandingDebt": 979000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11500,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 720,
+    "OutstandingDebt": 912000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94600,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 723000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23800,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 720,
+    "OutstandingDebt": 188000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 99300,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 690,
+    "OutstandingDebt": 319000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 68000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44400,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 519000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1300,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 690,
+    "OutstandingDebt": 429000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80000,
+    "MonthsToPayBack": 48,
+    "APRRate": 4,
+    "CreditScore": 720,
+    "OutstandingDebt": 826000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23100,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 236000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71000,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 750,
+    "OutstandingDebt": 961000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13600,
+    "MonthsToPayBack": 48,
+    "APRRate": 4,
+    "CreditScore": 640,
+    "OutstandingDebt": 255000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89800,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 680,
+    "OutstandingDebt": 321000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35700,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 781000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 18800,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 740,
+    "OutstandingDebt": 279000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88800,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 730,
+    "OutstandingDebt": 437000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60300,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 659000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55500,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 427000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 12600,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 181000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94400,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 626000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 87100,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 750,
+    "OutstandingDebt": 964000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33700,
+    "MonthsToPayBack": 48,
+    "APRRate": 4,
+    "CreditScore": 700,
+    "OutstandingDebt": 253000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76600,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 640,
+    "OutstandingDebt": 731000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 82900,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 720,
+    "OutstandingDebt": 712000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32200,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 459000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2800,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 700,
+    "OutstandingDebt": 477000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 93300,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 603000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21000,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 955000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 5800,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 660,
+    "OutstandingDebt": 684000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33900,
+    "MonthsToPayBack": 12,
+    "APRRate": 5,
+    "CreditScore": 740,
+    "OutstandingDebt": 195000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 99300,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 600,
+    "OutstandingDebt": 743000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54000,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 670,
+    "OutstandingDebt": 932000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88200,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 700,
+    "OutstandingDebt": 690000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80500,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 600,
+    "OutstandingDebt": 125000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83800,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 930000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4000,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 327000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37500,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 115000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42500,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 660,
+    "OutstandingDebt": 896000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76900,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 898000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 50000,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 212000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86300,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 265000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 57100,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 226000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 600,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 263000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 95800,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 657000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89900,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 78000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8700,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 720,
+    "OutstandingDebt": 230000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25100,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 680,
+    "OutstandingDebt": 573000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 95400,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 620,
+    "OutstandingDebt": 772000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72000,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 630,
+    "OutstandingDebt": 582000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 391000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2700,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 740,
+    "OutstandingDebt": 582000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2900,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 103000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60400,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 730,
+    "OutstandingDebt": 896000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72700,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 456000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28200,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 750,
+    "OutstandingDebt": 171000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 68900,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 779000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77700,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 680,
+    "OutstandingDebt": 26000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7200,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 700,
+    "OutstandingDebt": 893000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43000,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 630,
+    "OutstandingDebt": 672000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30000,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 980000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 97900,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 610,
+    "OutstandingDebt": 308000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55900,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 95000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84000,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 600,
+    "OutstandingDebt": 95000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61200,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 958000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70600,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 102000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59400,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 756000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80500,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 630,
+    "OutstandingDebt": 592000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79700,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 429000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2600,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 660,
+    "OutstandingDebt": 999000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26400,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 750,
+    "OutstandingDebt": 158000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40800,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 640,
+    "OutstandingDebt": 64000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 99900,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 740,
+    "OutstandingDebt": 499000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35300,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 690,
+    "OutstandingDebt": 398000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 49600,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 251000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48200,
+    "MonthsToPayBack": 12,
+    "APRRate": 5,
+    "CreditScore": 640,
+    "OutstandingDebt": 534000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 87200,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 540000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4900,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 174000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 730,
+    "OutstandingDebt": 160000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 949000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23700,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 346000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76800,
+    "MonthsToPayBack": 48,
+    "APRRate": 5,
+    "CreditScore": 640,
+    "OutstandingDebt": 116000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42400,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 660,
+    "OutstandingDebt": 467000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26600,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 989000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40500,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 947000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16100,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 970000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83500,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 629000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 38300,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 690,
+    "OutstandingDebt": 794000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30300,
+    "MonthsToPayBack": 48,
+    "APRRate": 4,
+    "CreditScore": 680,
+    "OutstandingDebt": 843000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 47300,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 136000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44900,
+    "MonthsToPayBack": 12,
+    "APRRate": 4,
+    "CreditScore": 610,
+    "OutstandingDebt": 512000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 38100,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 671000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 20200,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 660,
+    "OutstandingDebt": 780000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85600,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 597000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40000,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 787000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11100,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 783000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 67400,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 600,
+    "OutstandingDebt": 212000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27900,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 640,
+    "OutstandingDebt": 678000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91300,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 378000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56100,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 755000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 57400,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 667000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 78400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 989000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53400,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 482000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1000,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 700,
+    "OutstandingDebt": 471000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64700,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 405000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 5700,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 768000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51900,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 620,
+    "OutstandingDebt": 934000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96200,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 59000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10700,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 690,
+    "OutstandingDebt": 117000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51900,
+    "MonthsToPayBack": 12,
+    "APRRate": 4,
+    "CreditScore": 740,
+    "OutstandingDebt": 64000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75800,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 660,
+    "OutstandingDebt": 552000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37800,
+    "MonthsToPayBack": 12,
+    "APRRate": 7,
+    "CreditScore": 630,
+    "OutstandingDebt": 585000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32400,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 94000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90700,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 620,
+    "OutstandingDebt": 186000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1200,
+    "MonthsToPayBack": 36,
+    "APRRate": 12,
+    "CreditScore": 640,
+    "OutstandingDebt": 77000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45000,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 720,
+    "OutstandingDebt": 92000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92500,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 750,
+    "OutstandingDebt": 250000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 99500,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 583000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40800,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 630,
+    "OutstandingDebt": 598000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32200,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 337000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 100,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 825000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 761000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69000,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 620,
+    "OutstandingDebt": 238000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86800,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 334000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65100,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 145000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19200,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 660,
+    "OutstandingDebt": 109000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89300,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 600,
+    "OutstandingDebt": 967000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 922000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 99300,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 650,
+    "OutstandingDebt": 553000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53200,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 700,
+    "OutstandingDebt": 229000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85700,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 224000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61400,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 650,
+    "OutstandingDebt": 899000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88600,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 670,
+    "OutstandingDebt": 69000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85900,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 449000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72500,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 363000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 99000,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 620,
+    "OutstandingDebt": 869000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81400,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 600,
+    "OutstandingDebt": 820000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85100,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 728000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89300,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 720,
+    "OutstandingDebt": 154000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16200,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 730,
+    "OutstandingDebt": 431000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96900,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 880000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90400,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 548000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91700,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 519000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 12500,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 690,
+    "OutstandingDebt": 295000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 93400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 784000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 66400,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 700,
+    "OutstandingDebt": 796000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19600,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 530000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 93000,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 670,
+    "OutstandingDebt": 949000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28400,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 342000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 24200,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 858000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61000,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 531000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 67800,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 700,
+    "OutstandingDebt": 426000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37400,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 438000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 14800,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 730,
+    "OutstandingDebt": 215000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63200,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 242000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75700,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 897000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26500,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 730,
+    "OutstandingDebt": 287000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 67500,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 796000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86600,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 660,
+    "OutstandingDebt": 949000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11800,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 178000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 5700,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 730,
+    "OutstandingDebt": 787000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42700,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 680,
+    "OutstandingDebt": 919000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 97700,
+    "MonthsToPayBack": 36,
+    "APRRate": 12,
+    "CreditScore": 610,
+    "OutstandingDebt": 976000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 98900,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 827000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 93500,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 610,
+    "OutstandingDebt": 576000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25400,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 758000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 49400,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 670000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52200,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 750,
+    "OutstandingDebt": 26000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28500,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 670,
+    "OutstandingDebt": 615000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91000,
+    "MonthsToPayBack": 12,
+    "APRRate": 5,
+    "CreditScore": 640,
+    "OutstandingDebt": 719000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7600,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 243000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 46600,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 630,
+    "OutstandingDebt": 485000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96200,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 30000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 78900,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 769000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13400,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 560000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35900,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 740,
+    "OutstandingDebt": 561000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 41900,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 740,
+    "OutstandingDebt": 273000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88600,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 482000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8500,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 610000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39100,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 80000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59500,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 720,
+    "OutstandingDebt": 109000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45200,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 353000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28800,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 858000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21400,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 750000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94500,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 144000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83100,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 690,
+    "OutstandingDebt": 485000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69500,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 323000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71500,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 610,
+    "OutstandingDebt": 157000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 95700,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 630,
+    "OutstandingDebt": 549000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 17900,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 730,
+    "OutstandingDebt": 191000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43600,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 310000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85600,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 640,
+    "OutstandingDebt": 985000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 39500,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 700,
+    "OutstandingDebt": 771000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 31800,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 501000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7700,
+    "MonthsToPayBack": 12,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 877000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 8200,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 183000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40200,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 740,
+    "OutstandingDebt": 278000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 73700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 283000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 542000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1300,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 660,
+    "OutstandingDebt": 332000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26400,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 750,
+    "OutstandingDebt": 268000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83700,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 775000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 730,
+    "OutstandingDebt": 151000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 62200,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 660,
+    "OutstandingDebt": 990000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 100000,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 377000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 20000,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 737000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 5200,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 360000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2800,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 232000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72900,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 680,
+    "OutstandingDebt": 650000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74500,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 730,
+    "OutstandingDebt": 926000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65400,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 660,
+    "OutstandingDebt": 358000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 9500,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 690,
+    "OutstandingDebt": 191000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16400,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 383000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 95800,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 453000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52400,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 855000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10800,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 660,
+    "OutstandingDebt": 455000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 5800,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 714000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 38000,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 102000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74200,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 397000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59200,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 700,
+    "OutstandingDebt": 653000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 665000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48600,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 670,
+    "OutstandingDebt": 423000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 97500,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 80000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51100,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 682000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 913000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 18100,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 730,
+    "OutstandingDebt": 123000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34500,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 367000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 99800,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 710,
+    "OutstandingDebt": 882000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 73700,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 603000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15400,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 730,
+    "OutstandingDebt": 708000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74700,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 740,
+    "OutstandingDebt": 587000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83800,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 700,
+    "OutstandingDebt": 247000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 66500,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 413000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81200,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 177000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51300,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 680,
+    "OutstandingDebt": 683000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33600,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 357000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92900,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 600,
+    "OutstandingDebt": 408000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86200,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 631000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51800,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 700,
+    "OutstandingDebt": 241000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76900,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 750,
+    "OutstandingDebt": 973000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34300,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 970000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 38900,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 650,
+    "OutstandingDebt": 484000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72400,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 750,
+    "OutstandingDebt": 519000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 690,
+    "OutstandingDebt": 868000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70800,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 600,
+    "OutstandingDebt": 576000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 67100,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 730,
+    "OutstandingDebt": 532000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 24900,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 610,
+    "OutstandingDebt": 261000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52000,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 712000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4100,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 640,
+    "OutstandingDebt": 870000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 740,
+    "OutstandingDebt": 66000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1100,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 650,
+    "OutstandingDebt": 495000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65300,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 754000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81300,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 628000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55400,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 660,
+    "OutstandingDebt": 928000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69400,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 600,
+    "OutstandingDebt": 196000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 84000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54800,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 650,
+    "OutstandingDebt": 390000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45300,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 146000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3700,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 407000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32200,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 610,
+    "OutstandingDebt": 840000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19500,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 680,
+    "OutstandingDebt": 106000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 86900,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 398000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 18400,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 630,
+    "OutstandingDebt": 508000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44600,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 740,
+    "OutstandingDebt": 531000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72300,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 740,
+    "OutstandingDebt": 658000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25800,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 630,
+    "OutstandingDebt": 794000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 34300,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 740,
+    "OutstandingDebt": 35000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84500,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 398000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71400,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 600,
+    "OutstandingDebt": 159000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53300,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 764000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26200,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 640,
+    "OutstandingDebt": 520000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92900,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 620,
+    "OutstandingDebt": 758000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32600,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 620,
+    "OutstandingDebt": 731000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 432000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76900,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 650,
+    "OutstandingDebt": 825000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3800,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 700,
+    "OutstandingDebt": 893000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21600,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 730,
+    "OutstandingDebt": 455000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33700,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 620,
+    "OutstandingDebt": 176000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 78400,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 640,
+    "OutstandingDebt": 746000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 6700,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 660,
+    "OutstandingDebt": 129000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11300,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 495000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42700,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 650,
+    "OutstandingDebt": 743000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33500,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 153000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56900,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 255000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84100,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 710,
+    "OutstandingDebt": 764000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 82800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 998000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 73700,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 460000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79900,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 209000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27800,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 428000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 57400,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 696000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37400,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 730,
+    "OutstandingDebt": 166000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 82600,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 167000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 432000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37300,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 690,
+    "OutstandingDebt": 429000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77500,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 660,
+    "OutstandingDebt": 598000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28300,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 82000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2200,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 610,
+    "OutstandingDebt": 898000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11900,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 750,
+    "OutstandingDebt": 933000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 643000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71500,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 441000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70100,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 690,
+    "OutstandingDebt": 811000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 597000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 9300,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 739000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 21600,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 786000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 22200,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 750,
+    "OutstandingDebt": 661000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7800,
+    "MonthsToPayBack": 48,
+    "APRRate": 12,
+    "CreditScore": 610,
+    "OutstandingDebt": 472000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89600,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 750,
+    "OutstandingDebt": 229000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 65100,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 577000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59200,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 930000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63500,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 750,
+    "OutstandingDebt": 676000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 690,
+    "OutstandingDebt": 941000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 60300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 700,
+    "OutstandingDebt": 964000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84400,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 710,
+    "OutstandingDebt": 331000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51600,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 690,
+    "OutstandingDebt": 729000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 78400,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 547000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 97100,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 748000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63400,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 710,
+    "OutstandingDebt": 349000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 14300,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 705000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16800,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 680,
+    "OutstandingDebt": 631000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91600,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 964000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 18100,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 690,
+    "OutstandingDebt": 721000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64800,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 690,
+    "OutstandingDebt": 981000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71600,
+    "MonthsToPayBack": 36,
+    "APRRate": 12,
+    "CreditScore": 640,
+    "OutstandingDebt": 814000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40200,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 317000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45900,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 610,
+    "OutstandingDebt": 742000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56000,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 593000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 18400,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 680,
+    "OutstandingDebt": 964000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90800,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 650,
+    "OutstandingDebt": 135000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76100,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 942000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 95100,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 670,
+    "OutstandingDebt": 394000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83700,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 575000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 49500,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 394000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72800,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 449000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 565000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61700,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 660,
+    "OutstandingDebt": 746000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 93900,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 527000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 22400,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 606000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7600,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 597000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 9700,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 720,
+    "OutstandingDebt": 774000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80000,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 670,
+    "OutstandingDebt": 407000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91500,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 730,
+    "OutstandingDebt": 744000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 17600,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 720,
+    "OutstandingDebt": 198000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32500,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 444000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 73900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 533000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30700,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 832000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10500,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 660,
+    "OutstandingDebt": 663000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 36200,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 834000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 82400,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 600,
+    "OutstandingDebt": 911000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32500,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 660,
+    "OutstandingDebt": 691000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30400,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 369000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81900,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 611000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 9200,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 884000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37000,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 660,
+    "OutstandingDebt": 505000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 660,
+    "OutstandingDebt": 795000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69600,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 720,
+    "OutstandingDebt": 249000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11500,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 127000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 89600,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 680,
+    "OutstandingDebt": 387000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 630000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 87700,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 75000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23800,
+    "MonthsToPayBack": 48,
+    "APRRate": 7,
+    "CreditScore": 730,
+    "OutstandingDebt": 762000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 295000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30100,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 710,
+    "OutstandingDebt": 909000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 50200,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 630,
+    "OutstandingDebt": 537000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58600,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 600,
+    "OutstandingDebt": 174000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63900,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 710,
+    "OutstandingDebt": 637000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16700,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 620,
+    "OutstandingDebt": 919000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1900,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 720,
+    "OutstandingDebt": 432000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15600,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 600,
+    "OutstandingDebt": 843000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 50100,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 660,
+    "OutstandingDebt": 659000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 81200,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 280000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15900,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 720,
+    "OutstandingDebt": 693000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58700,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 690,
+    "OutstandingDebt": 27000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96500,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 680,
+    "OutstandingDebt": 771000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94800,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 660,
+    "OutstandingDebt": 941000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28600,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 750,
+    "OutstandingDebt": 632000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 600,
+    "OutstandingDebt": 199000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 33500,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 690,
+    "OutstandingDebt": 507000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30300,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 680,
+    "OutstandingDebt": 498000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44500,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 650,
+    "OutstandingDebt": 858000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 72500,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 592000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44000,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 620,
+    "OutstandingDebt": 467000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84600,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 610,
+    "OutstandingDebt": 779000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 14300,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 700,
+    "OutstandingDebt": 856000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77400,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 834000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 730,
+    "OutstandingDebt": 716000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88200,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 177000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 36300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 614000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32200,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 750,
+    "OutstandingDebt": 805000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53500,
+    "MonthsToPayBack": 48,
+    "APRRate": 5,
+    "CreditScore": 630,
+    "OutstandingDebt": 523000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74000,
+    "MonthsToPayBack": 48,
+    "APRRate": 4,
+    "CreditScore": 650,
+    "OutstandingDebt": 912000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 82600,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 670,
+    "OutstandingDebt": 878000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88900,
+    "MonthsToPayBack": 24,
+    "APRRate": 12,
+    "CreditScore": 740,
+    "OutstandingDebt": 465000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 850000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26700,
+    "MonthsToPayBack": 48,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 330000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 68500,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 656000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 888000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 17600,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 289000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91600,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 975000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 93400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 659000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 788000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75600,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 466000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74300,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 620,
+    "OutstandingDebt": 510000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11700,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 730,
+    "OutstandingDebt": 572000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 87300,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 660,
+    "OutstandingDebt": 493000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11900,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 720,
+    "OutstandingDebt": 966000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 68400,
+    "MonthsToPayBack": 24,
+    "APRRate": 4,
+    "CreditScore": 690,
+    "OutstandingDebt": 44000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4900,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 620,
+    "OutstandingDebt": 365000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45100,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 710,
+    "OutstandingDebt": 975000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32100,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 670,
+    "OutstandingDebt": 121000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 22200,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 284000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79900,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 640,
+    "OutstandingDebt": 771000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 716000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 31000,
+    "MonthsToPayBack": 48,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 770000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 88100,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 925000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 85000,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 691000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44100,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 868000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 98000,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 962000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 97300,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 700,
+    "OutstandingDebt": 597000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1500,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 650,
+    "OutstandingDebt": 641000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55000,
+    "MonthsToPayBack": 12,
+    "APRRate": 12,
+    "CreditScore": 710,
+    "OutstandingDebt": 663000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 87400,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 929000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15300,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 541000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10700,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 296000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63400,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 680,
+    "OutstandingDebt": 871000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 17700,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 690,
+    "OutstandingDebt": 73000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 792000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96800,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 690,
+    "OutstandingDebt": 922000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91400,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 740,
+    "OutstandingDebt": 160000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 36800,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 690,
+    "OutstandingDebt": 107000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54900,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 905000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 117000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27000,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 690,
+    "OutstandingDebt": 893000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76000,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 750,
+    "OutstandingDebt": 615000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 5600,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 385000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42700,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 825000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83300,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 630,
+    "OutstandingDebt": 919000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71700,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 887000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94900,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 710000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 77400,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 517000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 14300,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 886000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58100,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 337000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70300,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 750,
+    "OutstandingDebt": 849000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54600,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 650,
+    "OutstandingDebt": 81000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 98000,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 95000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 87600,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 122000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 68900,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 660,
+    "OutstandingDebt": 783000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 59600,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 340000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64300,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 750,
+    "OutstandingDebt": 546000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 95200,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 670,
+    "OutstandingDebt": 396000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 69000,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 740,
+    "OutstandingDebt": 635000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27100,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 394000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51500,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 610,
+    "OutstandingDebt": 318000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51700,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 700,
+    "OutstandingDebt": 119000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92000,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 670,
+    "OutstandingDebt": 335000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 4600,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 680,
+    "OutstandingDebt": 886000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11400,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 620,
+    "OutstandingDebt": 916000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76600,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 797000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 37100,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 736000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96600,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 124000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 29000,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 680,
+    "OutstandingDebt": 37000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 36100,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 690,
+    "OutstandingDebt": 571000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13400,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 730,
+    "OutstandingDebt": 700000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55000,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 690,
+    "OutstandingDebt": 92000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 83400,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 524000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 20300,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 526000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92100,
+    "MonthsToPayBack": 12,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 528000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94200,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 700,
+    "OutstandingDebt": 311000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 40200,
+    "MonthsToPayBack": 48,
+    "APRRate": 10,
+    "CreditScore": 600,
+    "OutstandingDebt": 55000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 79100,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 730,
+    "OutstandingDebt": 991000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 41700,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 700,
+    "OutstandingDebt": 499000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56300,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 640,
+    "OutstandingDebt": 898000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3200,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 640,
+    "OutstandingDebt": 140000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53000,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 650,
+    "OutstandingDebt": 94000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52000,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 600,
+    "OutstandingDebt": 579000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 12200,
+    "MonthsToPayBack": 12,
+    "APRRate": 9,
+    "CreditScore": 600,
+    "OutstandingDebt": 47000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11800,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 645000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90200,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 675000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 36700,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 630,
+    "OutstandingDebt": 811000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45000,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 630,
+    "OutstandingDebt": 222000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45000,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 620,
+    "OutstandingDebt": 453000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 80900,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 640,
+    "OutstandingDebt": 964000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27300,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 670,
+    "OutstandingDebt": 559000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48700,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 740,
+    "OutstandingDebt": 675000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 66000,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 660,
+    "OutstandingDebt": 517000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76000,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 620,
+    "OutstandingDebt": 76000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48600,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 203000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 31200,
+    "MonthsToPayBack": 48,
+    "APRRate": 5,
+    "CreditScore": 710,
+    "OutstandingDebt": 762000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 14100,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 660,
+    "OutstandingDebt": 308000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30500,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 680,
+    "OutstandingDebt": 141000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 42300,
+    "MonthsToPayBack": 24,
+    "APRRate": 8,
+    "CreditScore": 620,
+    "OutstandingDebt": 513000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 97700,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 710,
+    "OutstandingDebt": 595000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 29600,
+    "MonthsToPayBack": 36,
+    "APRRate": 4,
+    "CreditScore": 670,
+    "OutstandingDebt": 924000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 47000,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 709000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64500,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 630,
+    "OutstandingDebt": 222000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 70900,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 700,
+    "OutstandingDebt": 612000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 63900,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 640,
+    "OutstandingDebt": 269000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 50100,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 647000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13200,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 710,
+    "OutstandingDebt": 64000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 28500,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 720,
+    "OutstandingDebt": 435000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61200,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 610,
+    "OutstandingDebt": 681000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 16300,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 660,
+    "OutstandingDebt": 493000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27100,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 660,
+    "OutstandingDebt": 701000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10600,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 740,
+    "OutstandingDebt": 834000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55400,
+    "MonthsToPayBack": 12,
+    "APRRate": 8,
+    "CreditScore": 650,
+    "OutstandingDebt": 584000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54600,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 700,
+    "OutstandingDebt": 204000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2900,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 740,
+    "OutstandingDebt": 418000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74500,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 710,
+    "OutstandingDebt": 302000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 12800,
+    "MonthsToPayBack": 60,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 116000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 7400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 740,
+    "OutstandingDebt": 492000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3800,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 620,
+    "OutstandingDebt": 581000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26300,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 730,
+    "OutstandingDebt": 930000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 6400,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 610,
+    "OutstandingDebt": 570000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 38200,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 700,
+    "OutstandingDebt": 158000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 52300,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 832000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27600,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 690,
+    "OutstandingDebt": 188000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 44800,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 519000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1700,
+    "MonthsToPayBack": 48,
+    "APRRate": 5,
+    "CreditScore": 730,
+    "OutstandingDebt": 556000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2200,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 630,
+    "OutstandingDebt": 125000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 61600,
+    "MonthsToPayBack": 48,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 741000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 15300,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 600,
+    "OutstandingDebt": 507000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 35700,
+    "MonthsToPayBack": 12,
+    "APRRate": 7,
+    "CreditScore": 710,
+    "OutstandingDebt": 622000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3900,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 640,
+    "OutstandingDebt": 257000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 45100,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 610,
+    "OutstandingDebt": 498000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 68400,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 720,
+    "OutstandingDebt": 924000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3900,
+    "MonthsToPayBack": 48,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 608000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 71100,
+    "MonthsToPayBack": 24,
+    "APRRate": 5,
+    "CreditScore": 650,
+    "OutstandingDebt": 849000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90800,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 541000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 75600,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 700,
+    "OutstandingDebt": 890000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96600,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 670,
+    "OutstandingDebt": 146000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 74400,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 690,
+    "OutstandingDebt": 969000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 49000,
+    "MonthsToPayBack": 48,
+    "APRRate": 8,
+    "CreditScore": 680,
+    "OutstandingDebt": 599000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 91500,
+    "MonthsToPayBack": 36,
+    "APRRate": 9,
+    "CreditScore": 720,
+    "OutstandingDebt": 470000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 31200,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 620,
+    "OutstandingDebt": 726000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 620,
+    "OutstandingDebt": 747000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19100,
+    "MonthsToPayBack": 36,
+    "APRRate": 7,
+    "CreditScore": 650,
+    "OutstandingDebt": 390000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10700,
+    "MonthsToPayBack": 48,
+    "APRRate": 12,
+    "CreditScore": 720,
+    "OutstandingDebt": 674000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 30700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 710,
+    "OutstandingDebt": 39000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 27300,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 610,
+    "OutstandingDebt": 687000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2800,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 827000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 26000,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 690,
+    "OutstandingDebt": 733000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 11700,
+    "MonthsToPayBack": 36,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 642000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 22400,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 740,
+    "OutstandingDebt": 162000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19800,
+    "MonthsToPayBack": 12,
+    "APRRate": 4,
+    "CreditScore": 650,
+    "OutstandingDebt": 835000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 82900,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 353000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25300,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 546000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3600,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 620,
+    "OutstandingDebt": 45000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 25800,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 660,
+    "OutstandingDebt": 729000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 53200,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 630,
+    "OutstandingDebt": 60000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58500,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 680,
+    "OutstandingDebt": 853000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 58100,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 710,
+    "OutstandingDebt": 139000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 22300,
+    "MonthsToPayBack": 24,
+    "APRRate": 7,
+    "CreditScore": 610,
+    "OutstandingDebt": 264000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 6000,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 479000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 1900,
+    "MonthsToPayBack": 60,
+    "APRRate": 10,
+    "CreditScore": 630,
+    "OutstandingDebt": 754000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 2500,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 769000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43500,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 680,
+    "OutstandingDebt": 420000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 56700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 573000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 10900,
+    "MonthsToPayBack": 24,
+    "APRRate": 6,
+    "CreditScore": 600,
+    "OutstandingDebt": 927000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 43100,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 740,
+    "OutstandingDebt": 773000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48200,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 670,
+    "OutstandingDebt": 884000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 48300,
+    "MonthsToPayBack": 24,
+    "APRRate": 11,
+    "CreditScore": 720,
+    "OutstandingDebt": 855000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 23800,
+    "MonthsToPayBack": 60,
+    "APRRate": 4,
+    "CreditScore": 740,
+    "OutstandingDebt": 951000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 3700,
+    "MonthsToPayBack": 60,
+    "APRRate": 7,
+    "CreditScore": 750,
+    "OutstandingDebt": 857000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 64900,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 650,
+    "OutstandingDebt": 657000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 96100,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 710,
+    "OutstandingDebt": 895000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92600,
+    "MonthsToPayBack": 12,
+    "APRRate": 6,
+    "CreditScore": 720,
+    "OutstandingDebt": 146000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 54400,
+    "MonthsToPayBack": 60,
+    "APRRate": 5,
+    "CreditScore": 680,
+    "OutstandingDebt": 208000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 19600,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 919000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 5500,
+    "MonthsToPayBack": 36,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 641000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 73000,
+    "MonthsToPayBack": 12,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 56000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 94200,
+    "MonthsToPayBack": 36,
+    "APRRate": 8,
+    "CreditScore": 650,
+    "OutstandingDebt": 326000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 93700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 630,
+    "OutstandingDebt": 80000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 55400,
+    "MonthsToPayBack": 24,
+    "APRRate": 9,
+    "CreditScore": 750,
+    "OutstandingDebt": 752000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 66000,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 720,
+    "OutstandingDebt": 848000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 84900,
+    "MonthsToPayBack": 60,
+    "APRRate": 12,
+    "CreditScore": 680,
+    "OutstandingDebt": 432000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 13100,
+    "MonthsToPayBack": 60,
+    "APRRate": 8,
+    "CreditScore": 610,
+    "OutstandingDebt": 927000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 76400,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 660,
+    "OutstandingDebt": 917000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 51700,
+    "MonthsToPayBack": 60,
+    "APRRate": 9,
+    "CreditScore": 680,
+    "OutstandingDebt": 737000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 90400,
+    "MonthsToPayBack": 24,
+    "APRRate": 10,
+    "CreditScore": 670,
+    "OutstandingDebt": 496000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 31700,
+    "MonthsToPayBack": 60,
+    "APRRate": 11,
+    "CreditScore": 730,
+    "OutstandingDebt": 477000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 32800,
+    "MonthsToPayBack": 36,
+    "APRRate": 5,
+    "CreditScore": 720,
+    "OutstandingDebt": 105000,
+    "RiskAssessment": null
+  },
+  {
+    "LoanAmount": 92300,
+    "MonthsToPayBack": 36,
+    "APRRate": 11,
+    "CreditScore": 630,
+    "OutstandingDebt": 396000,
+    "RiskAssessment": null
+  }
+]

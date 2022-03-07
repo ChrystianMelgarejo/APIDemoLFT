@@ -1,0 +1,198 @@
+﻿@model SharedLibrary.Search
+
+<script src="~/Scripts/jquery-3.4.1.js"></script>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+<div class="form-horizontal">
+    <h2>Advance Search.</h2>
+    <hr />
+    <div class="form-group" style="background-color:khaki;">
+        <span>
+            <span style="font-weight: bold; font-size: large">Please note:</span><br />
+            1) The advance search filters out all applications which status is still <span style="font-weight:bold">"draft".</span><br />
+            2) The values entered as part of the search criteria are <span style="font-weight:bold">mutually inclusive.</span><br />
+        </span>
+    </div>
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.ApplicationId, "Application Id", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.ApplicationId, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">            
+            @Html.DropDownListFor(model => model.Status,
+            new SelectList(new List<Object>
+            {
+                new { value = 2 , text = "Pending Approval" },
+                new { value = 3 , text = "Approved"},
+                new { value = 4 , text = "Rejected"}
+            },
+            "value",
+            "text"), "Please select", htmlAttributes: new { @class = "form-control" })
+        </div>
+</div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.ClientFirstName, "Client", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.ClientFirstName, new { htmlAttributes = new { @class = "form-control", placeholder = "first name" } })
+            @Html.EditorFor(model => model.ClientLastName, new { htmlAttributes = new { @class = "form-control", placeholder = "last name" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.State, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">            
+            @Html.DropDownListFor(model => model.State,
+            new SelectList(new List<Object>
+            {
+                new { value = "AL", text = "Alabama" },
+                new { value = "AK", text = "Alaska" },
+                new { value = "AZ", text = "Arizona" },
+                new { value = "AR", text = "Arkansas" },
+                new { value = "CA", text = "California" },
+                new { value = "CZ", text = "Canal Zone" },
+                new { value = "CO", text = "Colorado" },
+                new { value = "CT", text = "Connecticut" },
+                new { value = "DE", text = "Delaware" },
+                new { value = "DC", text = "District of Columbia" },
+                new { value = "FL", text = "Florida" },
+                new { value = "GA", text = "Georgia" },
+                new { value = "GU", text = "Guam" },
+                new { value = "HI", text = "Hawaii" },
+                new { value = "ID", text = "Idaho" },
+                new { value = "IL", text = "Illinois" },
+                new { value = "IN", text = "Indiana" },
+                new { value = "IA", text = "Iowa" },
+                new { value = "KS", text = "Kansas" },
+                new { value = "KY", text = "Kentucky" },
+                new { value = "LA", text = "Louisiana" },
+                new { value = "ME", text = "Maine" },
+                new { value = "MD", text = "Maryland" },
+                new { value = "MA", text = "Massachusetts" },
+                new { value = "MI", text = "Michigan" },
+                new { value = "MN", text = "Minnesota" },
+                new { value = "MS", text = "Mississippi" },
+                new { value = "MO", text = "Missouri" },
+                new { value = "MT", text = "Montana" },
+                new { value = "NE", text = "Nebraska" },
+                new { value = "NV", text = "Nevada" },
+                new { value = "NH", text = "New Hampshire" },
+                new { value = "NJ", text = "New Jersey" },
+                new { value = "NM", text = "New Mexico" },
+                new { value = "NY", text = "New York" },
+                new { value = "NC", text = "North Carolina" },
+                new { value = "ND", text = "North Dakota" },
+                new { value = "OH", text = "Ohio" },
+                new { value = "OK", text = "Oklahoma" },
+                new { value = "OR", text = "Oregon" },
+                new { value = "PA", text = "Pennsylvania" },
+                new { value = "PR", text = "Puerto Rico" },
+                new { value = "RI", text = "Rhode Island" },
+                new { value = "SC", text = "South Carolina" },
+                new { value = "SD", text = "South Dakota" },
+                new { value = "TN", text = "Tennessee" },
+                new { value = "TX", text = "Texas" },
+                new { value = "UT", text = "Utah" },
+                new { value = "VT", text = "Vermont" },
+                new { value = "VI", text = "Virgin Islands" },
+                new { value = "VA", text = "Virginia" },
+                new { value = "WA", text = "Washington" },
+                new { value = "WV", text = "West Virginia" },
+                new { value = "WI", text = "Wisconsin" },
+                new { value = "WY", text = "Wyoming" }
+            },
+            "value",
+            "text"), "Please select", htmlAttributes: new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.BusinessName, "Business Name", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.BusinessName, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.CreditScore, "Credit Score", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.CreditScore, new { htmlAttributes = new { @class = "form-control" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.MinimumLoanAmoun, "Loan Amoun", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.MinimumLoanAmoun, new { htmlAttributes = new { @class = "form-control", placeholder = "minimum" } })
+            @Html.EditorFor(model => model.MaximumLoanAmoun, new { htmlAttributes = new { @class = "form-control", placeholder = "maximum" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Search" class="btn btn-default" onclick="return validateForm();" />
+        </div>
+    </div>
+</div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+<script type="text/javascript">
+    function validateForm() {
+        var _applicationId = $("#ApplicationId").val();
+        var _status = $("#Status").val();
+        var _clientFirstName = $("#ClientFirstName").val();
+        var _clientLastName = $("#ClientLastName").val();
+        var _state = $("#State").val();
+        var _businessName = $("#BusinessName").val();
+        var _creditScore = $("#CreditScore").val();
+        var _minimumLoanAmoun = $("#MinimumLoanAmoun").val();
+        var _maximumLoanAmoun = $("#MaximumLoanAmoun").val();        
+
+        if (_applicationId.length > 0 && _applicationId < 0) {
+            alert("Application Id is a positive number.");
+            return false;
+        }
+
+        if (_minimumLoanAmoun.length > 0 && _minimumLoanAmoun < 0) {
+            alert("Loan Amoun is a positive number.");
+            return false;
+        }
+
+        if (_maximumLoanAmoun.length > 0 && _maximumLoanAmoun < 0) {
+            alert("Loan Amoun is a positive number.");
+            return false;
+        }
+
+        if (_minimumLoanAmoun.length > 0 && _maximumLoanAmoun.length > 0 && _minimumLoanAmoun > _maximumLoanAmoun)
+        {
+            alert("Loan Amoun minimum is greater than the maximum.");
+            return false;
+        }
+
+        if (_creditScore.length > 0 && (_creditScore < 600 || _creditScore > 750)) {
+            alert("Credit Score is a number between 600 and 750.");
+            return false;
+        }
+
+        if (_applicationId.length > 0 || _status.length > 0 || _clientFirstName.length > 0 || _clientLastName.length > 0 || _state.length > 0 ||
+            _businessName.length > 0 || _creditScore.length > 0 || _minimumLoanAmoun.length > 0 || _maximumLoanAmoun.length > 0) {
+            return true;
+        }
+        else {
+            alert("Please enter at least one search criteria to proceed with your advance search.");
+            return false;
+        }        
+    }    
+</script>

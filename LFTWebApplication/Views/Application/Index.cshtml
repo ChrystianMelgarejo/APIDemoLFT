@@ -1,0 +1,85 @@
+﻿@model IEnumerable<SharedLibrary.Application>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Application Detail.</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Application Id
+        </th>
+        <th>
+            First Name
+        </th>
+        <th>
+            Last Name
+        </th>
+        <th>
+            Business Name
+        </th>
+        <th>
+            Loan Amount
+        </th>
+        <th>
+            Status
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.ApplicationId)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Client.FirstName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Client.LastName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Business.Name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Loan.LoanAmount)
+    </td>
+    <td>
+        @if (item.Status == 1)
+        {
+            <span>Draft</span>
+        }
+        else if (item.Status == 2)
+        {
+            <span>Pending Approval</span>
+        }
+        else if (item.Status == 3)
+        {
+            <span>Approved.</span>
+        }
+        else if (item.Status == 4)
+        {
+            <span>Rejected.</span>
+        }
+    </td>
+    <td>
+        @if (item.Status == 1 || item.Status == 2)
+        {
+            @Html.ActionLink("Edit", "Edit", new { applicationId = item.ApplicationId }) <span>|</span>
+            @Html.ActionLink("Delete", "Delete", new { applicationId = item.ApplicationId }, new { onclick = "return confirm('Are you sure you want to delete this record?');" })
+        }
+        else if (item.Status == 4)
+        {
+            @Html.ActionLink("Delete", "Delete", new { applicationId = item.ApplicationId }, new { onclick = "return confirm('Are you sure you want to delete this record?');" })
+        }
+    </td>
+</tr>
+    }
+
+</table>
